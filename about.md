@@ -10,7 +10,7 @@ permalink: /about/
 
 ### Employment
 
-- Bank of Korea, Seoul, Republic of Korea [Jan 2025 - *Present*]
+- The Bank of Korea, Seoul, Republic of Korea [Jan 2025 - *Present*]
     - Junior Economist
     
 <br>
