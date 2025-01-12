@@ -18,8 +18,9 @@ permalink: /about/
 ### Education
 
 - Seoul National University, Seoul, Republic of Korea [Mar 2021 - Feb 2025]
-    - B.S. in Statistics and Mathematics(double major)
-    - B.A. in Economics(double major) 
+    - B.S. in Statistics
+    - B.S. in Mathematics (double major)
+    - B.A. in Economics (double major) 
 
 <br>
 
