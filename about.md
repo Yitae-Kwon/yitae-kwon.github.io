@@ -26,7 +26,7 @@ permalink: /about/
 
 ### Academic Interests
 **Statistics**: Causal Inference / Nonparametric Statistics<br>
-**Mathematics**: Learning Theory / Numerical Analysis<br>
+**Mathematics**: Learning Theory / Dynamic Programming <br>
 **Economics**: Econometrics / Monetary Economics / Financial Stability
 
 <br>
