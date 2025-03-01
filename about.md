@@ -11,7 +11,7 @@ permalink: /about/
 ### Employment
 
 - The Bank of Korea, Seoul, Republic of Korea [Jan 2025 - *Present*]
-    - Junior Economist, System Risk Analysis Team, Financial Stability Department
+    - Junior Economist, Systemic Risk Analysis Team, Financial Stability Department
     
 <br>
 
@@ -27,7 +27,7 @@ permalink: /about/
 
 ### Academic Interests
 **Statistics**: Causal Inference / Nonparametric Statistics<br>
-**Mathematics**: Learning Theory / Dynamic Programming <br>
+**Mathematics**: Dynamic Programming / Mathematical Learning Theory <br>
 **Economics**: Econometrics / Monetary Economics / Financial Stability
 
 <br>
