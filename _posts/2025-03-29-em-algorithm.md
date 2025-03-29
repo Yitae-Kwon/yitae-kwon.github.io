@@ -12,7 +12,7 @@ comments: true
 ㅤ
 
 # 링크
-[**([참고] EM 알고리즘의 이해)**](https://yitae-kwon.github.io/files/articles/em_algorithm.pdf)
+[**(클릭)**](https://yitae-kwon.github.io/files/articles/em_algorithm.pdf)
 
 혹시 추가적인 의문이나 오류 있으면 알려주세요~!
 
