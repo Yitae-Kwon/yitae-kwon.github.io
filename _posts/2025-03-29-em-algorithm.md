@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "\[참고\] EM 알고리즘의 이해"
+title: "참고박스: EM 알고리즘의 이해"
 tags: [노트, 통계계산]
 use_math: true
 comments: true
@@ -12,7 +12,7 @@ comments: true
 ㅤ
 
 # 링크
-[**(\[참고\] EM 알고리즘의 이해)**](https://yitae-kwon.github.io/files/articles/em_algorithm.pdf)
+[**(EM 알고리즘의 이해)**](https://yitae-kwon.github.io/files/articles/em_algorithm.pdf)
 
 혹시 추가적인 의문이나 오류 있으면 알려주세요~!
 
