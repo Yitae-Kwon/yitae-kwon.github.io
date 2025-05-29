@@ -1,18 +1,32 @@
 ---
 layout: post
-title: "참고박스: EM 알고리즘의 이해"
-tags: [노트, 통계계산]
+title: "노트: 참고박스 모음"
+tags: [노트]
 use_math: true
 comments: true
 ---
 
 
 # 소개
-혼합 모형에서의 추론을 누군가에게 소개할 때 사용하려 만든 참고박스입니다.
+어떤 내용을 누군가에게 소개할 때나 혼자 공부할 때 사용하려 만든 자료들을 여기 모아 둡니다. 
 ㅤ
 
-# 링크
+# 통계
 [**(EM 알고리즘의 이해)**](https://yitae-kwon.github.io/files/articles/em_algorithm.pdf)
+
+[**(기초 인과추론)**](https://yitae-kwon.github.io/files/articles/ci.pdf)
+
+[**(기초 비모수통계)**](https://yitae-kwon.github.io/files/articles/nps.pdf)
+
+[**(시공간자료에서의 인과추론)**](https://yitae-kwon.github.io/files/articles/spatiotemp.pdf)
+
+
+# 경제
+[**(기초 경제통계와 파이썬 실습)**](https://github.com/Yitae-Kwon/Sfers2024SpringData/tree/main)
+
+[**(DSGE Intro)**](https://yitae-kwon.github.io/files/articles/dsge1.pdf)
+
+[**(Some Specification of DSGE)**](https://yitae-kwon.github.io/files/articles/dsge2.pdf)
 
 혹시 추가적인 의문이나 오류 있으면 알려주세요~!
 
