@@ -17,6 +17,8 @@ permalink: /about/
 
 ### Education
 
+- Korea Science Academy of KAIST, Busan, Republic of Korea [Feb 2018 - Feb 2021]
+
 - Seoul National University, Seoul, Republic of Korea [Mar 2021 - Feb 2025]
     - B.S. in Statistics
     - B.S. in Mathematical Sciences (double major)
@@ -33,7 +35,7 @@ permalink: /about/
 <br>
 
 ### Programming Languages
-R, Python, Julia
+R, Python + Matlab, Julia, Stata + Java
 
 <br>
 
