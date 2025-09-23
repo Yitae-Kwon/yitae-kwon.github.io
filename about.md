@@ -35,7 +35,7 @@ permalink: /about/
 <br>
 
 ### Programming Languages
-R, Python + Matlab, Julia, Stata + Java
+R, Python, Matlab, Julia, Stata, and Java
 
 <br>
 
